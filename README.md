@@ -11,7 +11,6 @@ CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
 ```
-
 ### Build the app
 
 ```shell
